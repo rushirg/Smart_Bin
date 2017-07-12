@@ -1,7 +1,5 @@
 # Smart_Bin
-A Smart Bin Android Application. 
-It is a bin which sends a text message( when a certain level of garbage is reached ) to an authorize person.
-The person receives the notification in this android application which states the change in the status of the Bin and the Marker of the bin.
+Smart-Bin is an upgradable version of the normal dustbin. In which once the bin is full it sends an SMS to a local authority regarding the current condition of that particular dustbin, the authority then can see the location of the dustbin and it's state whether it's full or empty, along with the same information about other bins. 
 ![Alt text](https://github.com/rushirg/Crusaders/blob/master/image1.png?raw=true "Optional Title")
 
 
