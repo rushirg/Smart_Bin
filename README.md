@@ -1,4 +1,4 @@
-# Crusaders
+# Smart_Bin
 A Smart Bin Android Application. 
 It is a bin which sends a text message( when a certain level of garbage is reached ) to an authorize person.
 The person receives the notification in this android application which states the change in the status of the Bin and the Marker of the bin.
